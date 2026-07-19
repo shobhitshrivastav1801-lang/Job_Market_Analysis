@@ -75,7 +75,6 @@ Developed an interactive dashboard to visualize job market trends and business i
 - MySQL
 - Power BI
 - Microsoft Excel (CSV)
-- Git
 - GitHub
 
 ---
