@@ -27,7 +27,7 @@ The project began with MySQL to explore the dataset, validate data quality, and 
 
    ![image alt](https://github.com/shobhitshrivastav1801-lang/Job_Market_Analysis/blob/a5aa5a9cf616e1e44ab032b1b317f6d6b269f368/Images/Query%20Code.png)
 
-📷 **Add SQL Output Screenshot Here**
+   ![image alt](https://github.com/shobhitshrivastav1801-lang/Job_Market_Analysis/blob/74882b8928ad6ceb2de7afde42790d8398677596/Images/Query%20Output.png)
 
 ---
 
