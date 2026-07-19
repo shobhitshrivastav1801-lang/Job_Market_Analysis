@@ -53,7 +53,7 @@ Developed an interactive dashboard to visualize job market trends and business i
 
 ### Dashboard Screenshot
 
-📷 **Add Complete Power BI Dashboard Screenshot Here**
+  ![image alt](https://github.com/shobhitshrivastav1801-lang/Job_Market_Analysis/blob/cae44a60fabe41ed9e9636a3f1ad1a95c7ac942b/Images/Dashboard.png)
 
 ---
 
