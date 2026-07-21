@@ -1,0 +1,11 @@
+job_title_sim,Python,SQL_Skill,Excel,Tableau,AWS,Spark,Hadoop,SAS,Scikit,PyTorch,Keras,MongoDB
+analyst,31,75,77,40,10,6,3,11,0,0,0,3
+"data analitics",5,4,4,4,0,0,0,2,0,0,0,0
+"data engineer",77,87,54,11,59,67,50,1,0,0,0,13
+"data modeler",2,4,4,0,2,1,1,0,0,0,0,0
+"data scientist",240,176,155,76,79,84,60,50,47,33,29,19
+"Data scientist project manager",4,11,11,12,2,0,0,0,0,0,0,0
+director,0,0,2,0,1,0,0,0,0,0,0,0
+"machine learning engineer",18,13,7,0,6,4,4,0,7,5,0,0
+na,4,7,9,5,3,5,6,0,0,0,0,2
+"other scientist",11,3,65,0,14,0,0,2,0,1,0,0
